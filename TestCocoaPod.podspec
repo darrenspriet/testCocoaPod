@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "TestCocoaPod"
-  s.version      = "0.1.0"
+  s.version      = "0.2.0"
   s.summary      = "Diff Summary"
 
   s.description  = <<-DESC
@@ -77,7 +77,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/darrenspriet/testCocoaPod.git", :tag => "0.1.0" }
+  s.source       = { :git => "https://github.com/darrenspriet/testCocoaPod.git", :tag => "0.2.0" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
