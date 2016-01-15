@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "TestCocoaPod"
   s.version      = "0.1.0"
-  s.summary      = "A short description of TestCocoaPod."
+  s.summary      = "Diff Summary"
 
   s.description  = <<-DESC
                    A longer description of TestCocoaPod in Markdown format.
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
                    * Finally, don't worry about the indent, CocoaPods strips it!
                    DESC
 
-  s.homepage     = "http://EXAMPLE/TestCocoaPod"
+  s.homepage     = "http://darrenspriet.ca"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -39,8 +39,8 @@ Pod::Spec.new do |s|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  s.license      = "MIT (example)"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  s.license      = { :type => "MIT" }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
