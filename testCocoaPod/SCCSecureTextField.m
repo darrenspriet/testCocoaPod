@@ -1,3 +1,6 @@
+
+#import <UIKit/UIKit.h>
+
 #import "SCCSecureTextField.h"
 
 @implementation SCCSecureTextField
