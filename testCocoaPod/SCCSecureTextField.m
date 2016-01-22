@@ -2,6 +2,8 @@
 #import <UIKit/UIKit.h>
 
 #import "SCCSecureTextField.h"
+#import "TDBadgedCell.h"
+
 
 @implementation SCCSecureTextField
 
@@ -12,6 +14,8 @@
     if (self)
     {
         [self commonInit];
+        
+        
     }
     
     return self;
@@ -42,6 +46,8 @@
     self.autocorrectionType = UITextAutocorrectionTypeNo;
     
     [self removeCopyPasteFromKeyboardOptionsIfNeeded];
+    
+    TDBadgedCell *cell = [[TDBadgedCell alloc] init];
 }
 
 - (void)removeCopyPasteFromKeyboardOptionsIfNeeded
