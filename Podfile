@@ -1,7 +1,9 @@
-# Uncomment this line to define a global platform for your project
-# platform :ios, '6.0'
+platform :ios, '6.0'
 
-target 'testCocoaPod' do
+source 'https://github.com/CocoaPods/Specs.git'
+pod 'UIAlertView+Blocks'
+pod 'TDBadgedCell'
+pod 'FLKAutoLayout'
+pod 'GoogleAnalytics'
 
-end
 

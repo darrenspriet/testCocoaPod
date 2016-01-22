@@ -1,0 +1,19 @@
+PODS:
+  - FLKAutoLayout (0.2.1)
+  - GoogleAnalytics (3.14.0)
+  - TDBadgedCell (3.0)
+  - UIAlertView+Blocks (0.9)
+
+DEPENDENCIES:
+  - FLKAutoLayout
+  - GoogleAnalytics
+  - TDBadgedCell
+  - UIAlertView+Blocks
+
+SPEC CHECKSUMS:
+  FLKAutoLayout: 9db6b30c2008d230da608e62c607b11c23b942e6
+  GoogleAnalytics: 9be1afdb8deeac4bb5f13ca7f7d3b9db2a1f43dc
+  TDBadgedCell: 8e5314066fd8c2d8b6e3fc5dec824f5ded78bdc5
+  UIAlertView+Blocks: a46c99c5144f6c5dbc7d62fd2a0678daceec89a3
+
+COCOAPODS: 0.38.2
