@@ -48,6 +48,8 @@
     [self removeCopyPasteFromKeyboardOptionsIfNeeded];
     
     TDBadgedCell *cell = [[TDBadgedCell alloc] init];
+    
+    //Change
 }
 
 - (void)removeCopyPasteFromKeyboardOptionsIfNeeded
